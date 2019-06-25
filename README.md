@@ -1,3 +1,15 @@
-# react-typescript-boilerplate
+# React Typescript Boilerplate
 
-Boilerplate with my preferred settings to start a create-react-app
+Bootstrapped from create-react-app
+
+## Features
+1. Eslint Config
+2. Sass
+3. Jest/Enyzme with snapshot testing
+4. tsconfig
+
+
+## Commands
+`yarn start`
+`yarn test`
+`yarn build`
