@@ -10,6 +10,15 @@ Bootstrapped from create-react-app
 
 
 ## Commands
-`yarn start`
-`yarn test`
-`yarn build`
+Run a dev build in localhost:3000
+```
+yarn start
+```
+Run Jest tests
+```
+yarn test
+```
+Create a minimized build
+```
+yarn build
+```
